@@ -36,10 +36,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivam-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=shivam-sys&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-sys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=shivam_sys)
+[![wakatime](https://wakatime.com/badge/user/6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b.svg)](https://wakatime.com/@6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
