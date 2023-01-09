@@ -39,7 +39,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=shivam-sys&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-sys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![wakatime](https://wakatime.com/badge/user/6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b.svg)](https://wakatime.com/@6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b)
+# Since 365 days:
+<figure><embed src="https://wakatime.com/share/@shivam_sys/77b35ec4-b018-4cd3-afd4-421508611735.svg"></embed></figure>
+![wakatime](https://wakatime.com/badge/user/6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b.svg)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
