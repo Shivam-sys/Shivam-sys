@@ -44,5 +44,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+![Errr](https://wakatime.com/badge/user/6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b.svg?style=for-the-badge)
 ![Errr](https://visitcount.itsvg.in/api?id=shivam-sys&icon=4&color=0)
-![Errr](https://wakatime.com/badge/user/6d46aaa8-b8a8-4b15-9b01-eea4f67dd23b.svg)
